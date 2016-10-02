@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>cell</key>
+      <string>PSStaticTextCell</string>
+      <key>cellClass</key>
+      <string>PFHeaderCell</string>
+      <key>background</key>
+      <string>#EFEFF4</string>
+      <key>image</key>
+      <string>/Library/PreferenceBundles/EasySpring.bundle/header@2x.png</string>
+      <key>height</key>
+      <integer>125</integer>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>label</key>
+      <string>General</string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>action</key>
+      <string>respringDevice</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Respring Device</string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>label</key>
+      <string>Respring Activation Method</string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSLinkCell</string>
+      <key>label</key>
+      <string>Activation Methods</string>
+      <key>isController</key>
+      <true/>
+      <key>bundle</key>
+      <string>LibActivator</string>
+      <key>activatorListener</key>
+      <string>com.chfreeware.easyspring</string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>label</key>
+      <string>Support the developer</string>
+    </dict>
+    <dict>
+      <key>action</key>
+      <string>twitterNav</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>icon</key>
+      <string>Twitter@2x.png</string>
+      <key>label</key>
+      <string>@iOSChrisHarris</string>
+    </dict>
+    <dict>
+      <key>action</key>
+      <string>gitNav</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>icon</key>
+      <string>GitHub@2x.png</string>
+      <key>label</key>
+      <string>@iOSChris</string>
+    </dict>
+    <dict>
+      <key>action</key>
+      <string>paypalNav</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>icon</key>
+      <string>PayPal@2x.png</string>
+      <key>label</key>
+      <string>Buy me a beer</string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>label</key>
+      <string>Shoutouts</string>
+    </dict>
+    <dict>
+      <key>action</key>
+      <string>redditNav</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>icon</key>
+      <string>Reddit@2x.png</string>
+      <key>label</key>
+      <string>@rob311</string>
+    </dict>
+    <dict>
+      <key>action</key>
+      <string>redditNavTwo</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>icon</key>
+      <string>Reddit@2x.png</string>
+      <key>label</key>
+      <string>@jontelang</string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>footerText</key>
+      <string>Chris Harris Freeware, 2016</string>
+    </dict>
+  </array>
+  <key>title</key>
+  <string>EasySpring</string>
+</dict>
+</plist>

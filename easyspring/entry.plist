@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = EasySpring;
+	cell = PSLinkCell;
+	detail = EasySpringListController;
+	icon = EasySpring.png;
+	isController = 1;
+	label = EasySpring;
+    };
+}

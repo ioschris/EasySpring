@@ -1,0 +1,10 @@
+Package: com.chfreeware.easyspring
+Name: EasySpring (iOS 9.x.x)
+Depends: mobilesubstrate, libactivator
+Architecture: iphoneos-arm
+Description: Respring your device. Anytime, anywhere!
+Maintainer: iOSChris <ioschrisharris@gmail.com>
+Author: iOSChris <ioschrisharris@gmail.com>
+Homepage: http://www.chrisharrisdev.com/
+Section: Tweaks
+Version: 1.0.1
